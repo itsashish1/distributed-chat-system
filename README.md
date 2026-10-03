@@ -1,4 +1,4 @@
-# Distributed Chat System
+..# Distributed Chat System
 A system-design style project that demonstrates scalable chat architecture.
 ## Highlights
 - WebSocket gateway for client connections
